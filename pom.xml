@@ -3,13 +3,13 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>cn.springboot</groupId>
+    <groupId>com.grealee</groupId>
     <artifactId>best-pay-sdk</artifactId>
     <version>1.1.0</version>
     <packaging>jar</packaging>
     <name>best-pay-sdk</name>
     <description>最好的支付sdk</description>
-    <url>https://github.com/Pay-Group/best-pay-sdk</url>
+    <url>https://github.com/liyizhiwei/best-pay-sdk</url>
 
     <licenses>
         <license>
@@ -20,16 +20,16 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/Pay-Group/best-pay-sdk</url>
-        <connection>git@github.com:Pay-Group/best-pay-sdk.git</connection>
-        <developerConnection>https://github.com/Pay-Group/best-pay-sdk</developerConnection>
+        <url>https://github.com/lizhiwei/best-pay-sdk</url>
+        <connection>git@github.com:lizhiwei/best-pay-sdk.git</connection>
+        <developerConnection>https://github.com/liyizhiwei/best-pay-sdk</developerConnection>
     </scm>
 
     <developers>
         <developer>
-            <name>lly835</name>
-            <email>lly835@163.com</email>
-            <url>https://github.com/Pay-Group/best-pay-sdk</url>
+            <name>grealee</name>
+            <email>zhiweili@live.com</email>
+            <url>https://github.com/liyizhiwei/best-pay-sdk</url>
         </developer>
     </developers>
 
